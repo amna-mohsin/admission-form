@@ -9,7 +9,7 @@ This is a responsive and well-structured **Student Admission Form** built using 
   - Various input types: text, email, date, radio buttons, etc.  
   - Clean and organized structure
 
-## Technologies_used
+## Technologies used
 
   - HTML5  
   - Bootstrap 5
